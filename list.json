@@ -1,0 +1,7 @@
+{
+  "challenges" : [
+    {"title": "Facebook"},
+    {"title":  "Twitter"},
+    {"title":  "Shi Fu Mi", "mission" :  "Créer le jeu Shi Fu Mi, Joueur vs Ordinateur"}
+  ]
+}
