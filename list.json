@@ -12,7 +12,7 @@
       "title": "Sunnyside agency landing page",
       "mission": "Your challenge is to build out this landing page and get it looking as close to the design as possible.\n\nThis challenge focuses mostly on HTML & CSS. There's a tiny bit of JS included for the mobile navigation toggle. But you could also choose to do this without JS!\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nSee hover states for all interactive elements on the page\nDownload the starter code and go through the README.md file. This will provide further details about the project. The style-guide.md file is where you'll find colors, fonts, etc.",
       "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1623250117/Challenges/lvj0udxz21q6bicxkysz.jpg",
-      "source": "https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3,B6ef",
+      "source": "https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef",
       "level": 1,
       "origin": "frontendmentor"
     },
@@ -20,7 +20,7 @@
       "title": "Calculator app",
       "mission": "Your challenge is to build out this calculator app and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nSee the size of the elements adjust based on their device's screen size\nPerform mathematical operations like addition, subtraction, multiplication, and division\nAdjust the color theme based on their preference\nBonus: Have their initial theme preference checked using prefers-color-scheme and have any additional changes saved in the browser.",
       "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1620928719/Challenges/yj8sq5bdoluuctw1zfst.jpg",
-      "source": "https://www.frontendmentor.io/challenges/calculator-app-9lteq5N2,9",
+      "source": "https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29",
       "level": 2,
       "origin": "frontendmentor"
     },
@@ -28,7 +28,7 @@
       "title": "Stats preview card component\n",
       "mission": "Your challenge is to build out this card component and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout depending on their device's screen size",
       "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1618491773/Challenges/pnczwsvslfwimxcqjrwm.jpg",
-      "source": "https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62,",
+      "source": "https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62",
       "level": 0,
       "origin": "frontendmentor"
     },
@@ -36,7 +36,7 @@
       "title": "3,-column preview card component",
       "mission": "Your challenge is to build out this 3,-column preview card component and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout depending on their device's screen size\nSee hover states for interactive elements",
       "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1617293350/Challenges/ofrkupd8a9wh1wenvr8c.jpg",
-      "source": "https://www.frontendmentor.io/challenges/3,column-preview-card-component-pH92,eAR2,-",
+      "source": "https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-",
       "level": 0,
       "origin": "frontendmentor"
     },
@@ -44,7 +44,7 @@
       "title": "Blogr landing page",
       "mission": "Your challenge is to build out this landing page and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nThis challenge mostly focuses on HTML & CSS. The only JavaScript required is for the mobile menu.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nSee hover states for all interactive elements on the page",
       "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1615479876/Challenges/n4uf9zl8yiqiyfsxtn2o.jpg",
-      "source": "https://www.frontendmentor.io/challenges/blogr-landing-page-EX2,RLAApP",
+      "source": "https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP",
       "level": 1,
       "origin": "frontendmentor"
     },
@@ -60,7 +60,7 @@
       "title": "Interactive pricing component",
       "mission": "Your challenge is to build out this interactive pricing component and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the app depending on their device's screen size\nSee hover states for all interactive elements on the page\nUse the slider and toggle to see prices for different page view numbers",
       "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1611325476/Challenges/aqcjg4hbvhk2bsrt7ay4.jpg",
-      "source": "https://www.frontendmentor.io/challenges/interactive-pricing-component-t0,m8PIyY8",
+      "source": "https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8",
       "level": 1,
       "origin": "frontendmentor"
     },
@@ -76,7 +76,7 @@
       "title": "Launch countdown timer",
       "mission": "Your challenge is to build out this countdown timer and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nSee hover states for all interactive elements on the page\nSee a live countdown timer that ticks down every second\nBonus: When a number changes, make the card flip from the middle",
       "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1607616391/Challenges/cqs8urpg9sr4ufvyiw7n.jpg",
-      "source": "https://www.frontendmentor.io/challenges/launch-countdown-timer-N0,XkGfyz-",
+      "source": "https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-",
       "level": 2,
       "origin": "frontendmentor"
     },
@@ -84,7 +84,7 @@
       "title": "Todo app",
       "mission": "Your challenge is to build out this todo app and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the app depending on their device's screen size\nSee hover states for all interactive elements on the page\nAdd new todos to the list\nMark todos as complete\nDelete todos from the list\nFilter by all/active/complete todos\nClear all completed todos\nToggle light and dark mode\nBonus: Drag and drop to reorder items on the list",
       "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1606414078/Challenges/vjbu8raudheodagmjfz2.jpg",
-      "source": "https://www.frontendmentor.io/challenges/todo-app-Su1,_KokOW",
+      "source": "https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW",
       "level": 2,
       "origin": "frontendmentor"
     },
@@ -108,7 +108,7 @@
       "title": "FAQ accordion card",
       "mission": "Your challenge is to build out this FAQ accordion card and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the component depending on their device's screen size\nSee hover states for all interactive elements on the page\nHide/Show the answer to a question when the question is clicked\nBonus: Complete the challenge without using JavaScript",
       "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1602235390/Challenges/ymtblmv8bbnpazgrfrx6.jpg",
-      "source": "https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0,Oam",
+      "source": "https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam",
       "level": 0,
       "origin": "frontendmentor"
     },
@@ -124,7 +124,7 @@
       "title": "Social proof section",
       "mission": "Your challenge is to build out this social proof section and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size",
       "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1599649588/Challenges/vfwjcmjv1jhtixjwqg48.jpg",
-      "source": "https://www.frontendmentor.io/challenges/social-proof-section-6e0,qTv_bA",
+      "source": "https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA",
       "level": 0,
       "origin": "frontendmentor"
     },
@@ -132,14 +132,14 @@
       "title": "IP Address Tracker",
       "mission": "Your challenge is to build out this IP Address Tracker app and get it looking as close to the design as possible. To get the IP Address locations, you'll be using the IP Geolocation API by IPify. To generate the map, we recommend using LeafletJS.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for each page depending on their device's screen size\nSee hover states for all interactive elements on the page\nSee their own IP Address on the map on the initial page load\nSearch for any IP addresses or domains and see the key information and location",
       "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1598711973/Challenges/p6khgutnfr78zbs9kje7.jpg",
-      "source": "https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0,yYAH0,",
+      "source": "https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0",
       "level": 2,
       "origin": "frontendmentor"
     },
     {
       "title": "Chat app CSS illustration",
       "mission": "Your challenge is to build out this feature illustration using HTML & CSS and get it looking as close to the design as possible.\n\nThe only assets we provide in this challenge are the image of the person in the app UI and the 3, images of the dog. You need to create everything else using HTML & CSS!\n\nYour users should be able to:\n\nView the optimal layout for the component depending on their device's screen size\nSee the chat interface animate on the initial load (optional)",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,594753,0,0,5%2,FChallenges%2,Ftdenrz6vmcjolwsgjy3,r.jpg",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1594753006/Challenges/q5mhmif1tc0d9lpfaapz.jpg",
       "source": "https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY",
       "level": 3,
       "origin": "frontendmentor"
@@ -147,7 +147,7 @@
     {
       "title": "Article preview component\n",
       "mission": "Your challenge is to build out this article preview component and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nThe only JavaScript you'll need for this challenge is to initiate the share options when someone clicks the share icon.\n\nYour users should be able to:\n\nView the optimal layout for the component depending on their device's screen size\nSee the social media share links when they click the share icon",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,593,1,9870,9%2,FChallenges%2,Fxqhq3,ggsxbtkv4o3,av6j.jpg",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1593198709/Challenges/xjpdhdjod58zbaaw0fmo.jpg",
       "source": "https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT",
       "level": 0,
       "origin": "frontendmentor"
@@ -155,15 +155,15 @@
     {
       "title": "Fylo data storage component",
       "mission": "Your challenge is to build out this data storage component and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,591,0,3,3,776%2,FChallenges%2,Fbeiy7t7hcpdkhgc6ueho.jpg",
-      "source": "https://www.frontendmentor.io/challenges/fylo-data-storage-component-1,dZPRbV5n",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1591033555/Challenges/uja7och1qxswpbietazs.jpg",
+      "source": "https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n",
       "level": 1,
       "origin": "frontendmentor"
     },
     {
       "title": "Coding bootcamp testimonials slider",
       "mission": "Your challenge is to build out this landing page and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nThe only JavaScript required is for switching the slides.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nNavigate the slider using either their mouse/trackpad or keyboard",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,5894693,0,6%2,FChallenges%2,Fdejjtjv4akklm3,c4vrb1,.jpg",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1589469306/Challenges/boizahiijgdyynt18v9d.jpg",
       "source": "https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL",
       "level": 1,
       "origin": "frontendmentor"
@@ -171,7 +171,7 @@
     {
       "title": "Social media dashboard with theme switcher",
       "mission": "Your challenge is to build out this landing page and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nThe only JavaScript required is for the color theme toggle.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nSee hover states for all interactive elements on the page\nToggle color theme to their preference",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,585840,948%2,FChallenges%2,Fftdvklbtn6y7ydjxjjuj.jpg",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1585840948/Challenges/q54sj6blz6155goee4jd.jpg",
       "source": "https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H",
       "level": 1,
       "origin": "frontendmentor"
@@ -179,7 +179,7 @@
     {
       "title": "Job listings with filtering",
       "mission": "Your challenge is to build out this landing page and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nSee hover states for all interactive elements on the page\nFilter job listings based on the categories selected",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,58448641,5%2,FChallenges%2,Fag1,73,wjmrf6agqxqqeoh.jpg",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1584486416/Challenges/vvnh7nisat28lbces76t.jpg",
       "source": "https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt",
       "level": 2,
       "origin": "frontendmentor"
@@ -187,7 +187,7 @@
     {
       "title": "Easybank landing page",
       "mission": "Your challenge is to build out this landing page and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nThe only JavaScript required is for the mobile navigation toggle. However, you could also try doing this without JS.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nSee hover states for all interactive elements on the page",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,583,42,7671,%2,FChallenges%2,Fyezt1,f56cfp2,njnakpbo.jpg",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1583427671/Challenges/r57dwegyobrqigxhsj36.jpg",
       "source": "https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN",
       "level": 2,
       "origin": "frontendmentor"
@@ -195,7 +195,7 @@
     {
       "title": "Manage landing page",
       "mission": "Your challenge is to build out this landing page and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nSee hover states for all interactive elements on the page\nSee all testimonials in a horizontal slider\nReceive an error message when the newsletter sign up form is submitted if:\nThe input field is empty\nThe email address is not formatted correctly",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,580,92,1,3,97%2,FChallenges%2,Fqkpgcsmter7tah2,sjdij.jpg",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1580921398/Challenges/zsudsuxylxq1bnhww45p.jpg",
       "source": "https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5",
       "level": 2,
       "origin": "frontendmentor"
@@ -203,7 +203,7 @@
     {
       "title": "Insure landing page",
       "mission": "Your challenge is to build out this landing page and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nThe only JavaScript required is for the mobile navigation toggle. However, you could also try doing this without JS.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nSee hover states for all interactive elements on the page",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,57893,6685%2,FChallenges%2,Fsp3,gewqjnhazsoovtqjm.jpg",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1578936686/Challenges/lljwpk1d1bsitc3jsibr.jpg",
       "source": "https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8",
       "level": 1,
       "origin": "frontendmentor"
@@ -211,7 +211,7 @@
     {
       "title": "Pricing component with toggle\n",
       "mission": "Your challenge is to build out this pricing component and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the component depending on their device's screen size\nControl the toggle with both their mouse/trackpad and their keyboard\nBonus: Complete the challenge with just HTML and CSS",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,5750,3,782,1,%2,FChallenges%2,Fpzkdrqu0,lizrk8qgmiti.jpg",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1575037823/Challenges/d3zuxyz7uggvmjtk895p.jpg",
       "source": "https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC",
       "level": 1,
       "origin": "frontendmentor"
@@ -219,7 +219,7 @@
     {
       "title": "Rock, Paper, Scissors game\n",
       "mission": "Your challenge is to build out this Rock, Paper, Scissors game and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the game depending on their device's screen size\nPlay Rock, Paper, Scissors against the computer\nMaintain the state of the score after refreshing the browser (optional)\nBonus: Play Rock, Paper, Scissors, Lizard, Spock against the computer (optional)",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,573,656786%2,FChallenges%2,Ffnzuxyyl1,wwyscqgaiyc.jpg",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1573656786/Challenges/bg1keixvsprk6ev1q8f2.jpg",
       "source": "https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH",
       "level": 3,
       "origin": "frontendmentor"
@@ -227,96 +227,96 @@
     {
       "title": "URL shortening API landing page",
       "mission": "Your challenge is to integrate with the shrtcode API to create shortened URLs and display them like in the designs.\n\nYou can use any JavaScript framework/library on the front-end such as React or Vue. You also have complete control over which packages you use to do things like make HTTP requests or style your project.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nShorten any valid URL\nSee a list of their shortened links, even after refreshing the browser\nCopy the shortened link to their clipboard in a single click\nReceive an error message when the form is submitted if:\nThe input field is empty",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,572,2,60,1,50,%2,FChallenges%2,Ferg4fyzl3,bu0,r4kwcvvq.jpg",
-      "source": "https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2,ce3,ob-G",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1572260150/Challenges/tybadwn9wwcc10hug3sn.jpg",
+      "source": "https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G",
       "level": 2,
       "origin": "frontendmentor"
     },
     {
       "title": "Four card feature section\n",
       "mission": "Your challenge is to build out this feature section and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,571,3,1,90,0,2,%2,FChallenges%2,Fwbsdema3,7uawkvkp9lab.jpg",
-      "source": "https://www.frontendmentor.io/challenges/four-card-feature-section-weK1,eFYK",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1571319220/Challenges/czhvpqpwrao3iao7f1cs.jpg",
+      "source": "https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK",
       "level": 0,
       "origin": "frontendmentor"
     },
     {
       "title": "Base Apparel coming soon page\n",
       "mission": "Your challenge is to build out this coming soon page and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nSee hover states for all interactive elements on the page\nReceive an error message when the form is submitted if:\nThe input field is empty\nThe email address is not formatted correctly",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,56491,481,5%2,FChallenges%2,Foxwdbpj64r1,au0,gp1,frc.jpg",
-      "source": "https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a70,63,f93,3,1,a0,",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1564914815/Challenges/ae67ohzys48frbejvyce.jpg",
+      "source": "https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0",
       "level": 0,
       "origin": "frontendmentor"
     },
     {
       "title": "Project tracking intro component",
       "mission": "Your challenge is to build out this intro component and get it looking as close to the design as possible. The background pattern is also not provided as an asset, so you'll need to create and position it using code.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nThe only JavaScript required is for the mobile navigation toggle. However, you could also try doing this without JS.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nSee hover states for all interactive elements on the page",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,562,93,9543,%2,FChallenges%2,Fquaxtotuavno8ieuobbx.jpg",
-      "source": "https://www.frontendmentor.io/challenges/project-tracking-intro-component-5d2,890,9750,0,fcb3,3,1,a67d80,e",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1562939543/Challenges/oe6ltkbcgxph4lsyyfic.jpg",
+      "source": "https://www.frontendmentor.io/challenges/project-tracking-intro-component-5d289097500fcb331a67d80e",
       "level": 1,
       "origin": "frontendmentor"
     },
     {
       "title": "Bookmark landing page\n",
       "mission": "Your challenge is to build out this landing page and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nSee hover states for all interactive elements on the page\nReceive an error message when the newsletter form is submitted if:\nThe input field is empty\nThe email address is not formatted correctl",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,561,0,3,3,463,%2,FChallenges%2,Fnmfs59ofpjizo6knhpsr.jpg",
-      "source": "https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0,b588a9edda3,2,581,d2,91,58",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1561033463/Challenges/czn2dxiirs6ld3lqegmr.jpg",
+      "source": "https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158",
       "level": 2,
       "origin": "frontendmentor"
     },
     {
       "title": "Intro component with sign-up form",
       "mission": "Your challenge is to build out this landing page and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nSee hover states for all interactive elements on the page\nReceive an error message when the form is submitted if:\nAny input field is empty\nThe email address is not formatted correctly",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,55982,991,0,%2,FChallenges%2,Fmnmpkjsbvur3,xvrydf66.jpg",
-      "source": "https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91,bd49edda3,2,581,d2,8fd1,",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1559829911/Challenges/cbyamvcsyhwlvnlelr5n.jpg",
+      "source": "https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1",
       "level": 0,
       "origin": "frontendmentor"
     },
     {
       "title": "Single price grid component\n",
       "mission": "Your challenge is to build out this pricing component and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the component depending on their device's screen size\nSee a hover state on desktop for the Sign Up call-to-action",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,558450,848%2,FChallenges%2,Fouvhkqeq9dhokut9payi.jpg",
-      "source": "https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41,1,2,9d0,ff452,fec5abbbc",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1558450849/Challenges/etoajz7nokwmphl1jonw.jpg",
+      "source": "https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc",
       "level": 0,
       "origin": "frontendmentor"
     },
     {
       "title": "Clipboard landing page\n",
       "mission": "Your challenge is to build out this landing page and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nSee hover states for all interactive elements on the page",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,55672,53,3,5%2,FChallenges%2,Fxiydlw7ggmnfnldlflit.jpg",
-      "source": "https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91,1,1,1,3,78ecb9",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1556725335/Challenges/t1shleo9aako7yuryeu1.jpg",
+      "source": "https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9",
       "level": 1,
       "origin": "frontendmentor"
     },
     {
       "title": "Ping single column coming soon page",
       "mission": "Your challenge is to build out this Coming Soon page and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nSee hover states for all interactive elements on the page\nSubmit their email address using an input field\nReceive an error message when the form is submitted if:\nThe input field is empty\nThe email address is not formatted correctly",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,554895678%2,FChallenges%2,Fi3,0,yb3,bo5vfag44bojox.jpg",
-      "source": "https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd0,51,fec0,41,1,1,f7b848da",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1554895678/Challenges/tvzmm442kkjocmihbpiq.jpg",
+      "source": "https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da",
       "level": 0,
       "origin": "frontendmentor"
     },
     {
       "title": "REST Countries API with color theme switcher",
       "mission": "Your challenge is to integrate with the REST Countries API to pull country data and display it like in the designs.\n\nYou can use any JavaScript framework/library on the front-end such as React or Vue. You also have complete control over which packages you use to do things like make HTTP requests or style your project.\n\nYour users should be able to:\n\nSee all countries from the API on the homepage\nSearch for a country using an input field\nFilter countries by region\nClick on a country to see more detailed information on a separate page\nClick through to the border countries on the detail page\nToggle the color scheme between light and dark mode (optional)",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,55482,7486%2,FChallenges%2,Fwirxeocmd6tpnn9c5oqc.jpg",
-      "source": "https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec0,41,1,1,f7b848ca",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1554827486/Challenges/jfrcfmcisi1xiwm4rl1s.jpg",
+      "source": "https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca",
       "level": 3,
       "origin": "frontendmentor"
     },
     {
       "title": "Huddle landing page with alternating feature blocks",
       "mission": "Your challenge is to build out this landing page from the designs provided in the starter code.\n\nDownload the starter code and go through the README.md file. This will provide further details about the project. The style-guide.md file is where you'll find colors, fonts, etc.\n\nKeep your code as clean as possible. Be sure to use semantic HTML5 markup and reusable CSS classes.\n\nWant some support on the challenge? Join our Slack community and ask questions in the help channel.",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,5543,80,2,53,%2,FChallenges%2,Fwn3,pttg6nwgymod2,iqxy.jpg",
-      "source": "https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981,e82,1,3,7ec91,a51,0,0,",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1554380254/Challenges/twtp2gsjsqshh3eyk4xu.jpg",
+      "source": "https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100",
       "level": 1,
       "origin": "frontendmentor"
     },
     {
       "title": "Fylo dark theme landing page\n",
       "mission": "Your challenge is to build out this landing page and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nSee hover states for all interactive elements on the page",
-      "image": "https://www.frontendmentor.io/_next/image?url=https%3,A%2,F%2,Fres.cloudinary.com%2,Fdz2,0,9s6jk%2,Fimage%2,Fupload%2,Fv1,5543,79663,%2,FChallenges%2,Fr2,ntg9yanvjruk8rbdxn.jpg",
-      "source": "https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2,d2,1,e82,1,3,7ec91,a50,fd",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1554379663/Challenges/dljq5wd6tj1r8hjulezy.jpg",
+      "source": "https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd",
       "level": 1,
       "origin": "frontendmentor"
     },
@@ -324,7 +324,7 @@
       "title": "Huddle landing page with a single introductory section",
       "mission": "Your challenge is to build out this landing page from the designs provided in the starter code.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the page depending on their device's screen size\nSee hover states for all interactive elements on the page",
       "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1554379169/Challenges/yjly0l5ohx3f2kz6bbvg.jpg",
-      "source": "https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2,Wvxgi0,",
+      "source": "https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0",
       "level": 0,
       "origin": "frontendmentor"
     },
@@ -332,7 +332,7 @@
       "title": "Fylo landing page with two column layout",
       "mission": "Your challenge is to build out this landing page and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nSee hover states for all interactive elements on the page",
       "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1554378730/Challenges/lxxgrgefvwxe92z19lmn.jpg",
-      "source": "https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef0,41,e82,1,3,7ec91,a50,f5",
+      "source": "https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5",
       "level": 1,
       "origin": "frontendmentor"
     },
@@ -340,7 +340,7 @@
       "title": "Huddle landing page with curved sections",
       "mission": "Your challenge is to build out this landing page and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the site depending on their device's screen size\nSee hover states for all interactive elements on the page",
       "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1554378078/Challenges/bcq6hzgzoq2fsg9o5kii.jpg",
-      "source": "https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd0,1,e82,1,3,7ec91,a50,f2,",
+      "source": "https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2",
       "level": 1,
       "origin": "frontendmentor"
     }
