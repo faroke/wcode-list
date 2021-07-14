@@ -3,7 +3,7 @@
     {
       "title": "Tip calculator app",
       "mission": "Your challenge is to build out this tip calculator app and get it looking as close to the design as possible.\n\nYou can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.\n\nYour users should be able to:\n\nView the optimal layout for the app depending on their device's screen size\nSee hover states for all interactive elements on the page\nCalculate the correct tip and total cost of the bill per person\nDownload the project and go through the README.md file. This will provide further details about the project and help you get set up.",
-      "image": "https://res.cloudinary.com/dz2,0,9s6jk/image/upload/v1,62,5753,687/Challenges/wfczmy0,nrltpwqyaovg6.jpg",
+      "image": "https://res.cloudinary.com/dz209s6jk/image/upload/v1625753687/Challenges/wfczmy0nrltpwqyaovg6.jpg",
       "source": "https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX",
       "level": 1,
       "origin": "frontendmentor"
